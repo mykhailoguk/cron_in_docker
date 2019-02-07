@@ -1,2 +1,2 @@
-# cron_in_docker
-Simple cron job that runs in docker 
+# Cron in Docker
+Simple cron job that runs inside docker container
